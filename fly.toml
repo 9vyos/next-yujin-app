@@ -1,6 +1,6 @@
-# fly.toml file generated for bold-snowflake-4037 on 2023-04-13T19:11:02+09:00
+# fly.toml file generated for quiet-sun-1488 on 2023-04-17T16:32:31+09:00
 
-app = "bold-snowflake-4037"
+app = "quiet-sun-1488"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
